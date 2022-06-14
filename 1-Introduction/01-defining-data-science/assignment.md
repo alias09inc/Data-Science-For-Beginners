@@ -20,7 +20,7 @@ Fill in the following table (substitute suggested problem domains for your own o
 
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
-| Education | | | | |
+| Education |In the elementary school or juniour high school, students who don't understand class are potencially exist, but it's hard to find out wihtout  | | | |
 | Vaccination | | | | |
 | Productivity | | | | |
 
